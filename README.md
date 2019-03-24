@@ -14,7 +14,7 @@ Magic: the Gathering (M:tG)のプロキシデッキ作成補助装置
 
 ## 使い方
 pythonを入れます.
-諸パッケージを入れます (pandas, mtgsdk, ssl, PIL, urllib, repotlab, tqdm)
+諸パッケージを入れます (pandas, mtgsdk, ssl, xlrd, pillow, repotlab, tqdm)
 このアプリを使います.
 
 ## 類似
@@ -22,4 +22,5 @@ https://xn--lckd4aze2cygme.xyz/proxy2.html
 プロキシカードメーカーというプロキシを作ってくれるWebアプリケーションです. 画像のリンクを探す必要がありますが, Webでアプリが完結しています. このアプリもそのうちノンプログラマでも使えるようなフロントを書いてくれる日が来ると思うがそれは今日でもなければ私でもなさそうです. 
 ## 著者
 久保田 祥平
+
 久保田 康平
