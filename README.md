@@ -24,3 +24,5 @@ https://xn--lckd4aze2cygme.xyz/proxy2.html
 久保田 祥平
 
 久保田 康平
+===
+This software is released under the MIT License, see LICENSE.
